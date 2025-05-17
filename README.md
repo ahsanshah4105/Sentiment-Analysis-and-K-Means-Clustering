@@ -19,4 +19,9 @@ This project analyzes product reviews from a CSV file to determine whether each 
    ```bash
    python your_script_name.py
 
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/f22faf99-e0a2-449b-a952-2ccb3796fc04)
+![Image](https://github.com/user-attachments/assets/752b51e3-5dff-4c40-a560-70962659ea1c)
+![Image](https://github.com/user-attachments/assets/178b52b3-9c97-467b-8253-c3a1444b30c8)
 
